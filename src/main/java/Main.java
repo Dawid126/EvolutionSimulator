@@ -19,7 +19,7 @@ public class Main {
         JSONParser jsonParser = new JSONParser();
         int[] parameters = new int[9];
         String parametersPath = new File("").getAbsolutePath();
-        parametersPath = parametersPath.concat("\\src\\resources\\parameters.json");
+        parametersPath = parametersPath.concat("\\src\\main\\resources\\parameters.json");
 
         try {
             FileReader fileReader = new FileReader(parametersPath);

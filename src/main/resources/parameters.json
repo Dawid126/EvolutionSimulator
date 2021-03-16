@@ -1,0 +1,11 @@
+{
+   "width": 30,
+   "height": 30,
+   "startEnergy": 100,
+   "moveEnergy": 5,
+   "plantEnergy": 20,
+   "jungleRatio": 50,
+   "numOfStartingAnimals": 40,
+   "numOfGrassPerDayPerRegion": 2,
+   "numOfStartingGrass": 200
+}
